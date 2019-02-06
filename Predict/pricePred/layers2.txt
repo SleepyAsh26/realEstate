@@ -1,0 +1,2245 @@
+Layers: [40, 30]
+Result: 76.8
+
+
+
+Layers: [70, 10]
+Result: 79.9
+Layers: [30, 20]
+Result: 76.8
+
+
+
+Layers: [30, 50]
+Result: 76.8
+
+Layers: [10, 30, 10]
+Result: 76.8
+Layers: [10, 40]
+Result: 73.2
+Layers: [40, 10]
+Result: 70.1
+
+
+
+Layers: [10]
+Result: 16.49
+Layers: [20]
+Result: 32.99
+Layers: [30]
+Result: 34.02
+Layers: [40]
+Result: 40.21
+Layers: [50]
+Result: 40.72
+Layers: [60]
+Result: 44.33
+Layers: [70]
+Result: 44.33
+Layers: [80]
+Result: 48.97
+Layers: [90]
+Result: 56.7
+Layers: [100]
+Result: 56.19
+Layers: [10, 10]
+Result: 63.92
+Layers: [10, 20]
+Result: 62.37
+Layers: [10, 30]
+Result: 72.68
+Layers: [10, 40]
+Result: 73.2
+Layers: [10, 50]
+Result: 70.62
+Layers: [10, 60]
+Result: 72.16
+Layers: [10, 70]
+Result: 72.68
+Layers: [10, 80]
+Result: 74.23
+Layers: [10, 90]
+Result: 73.71
+Layers: [10, 100]
+Result: 77.32
+Layers: [20, 10]
+Result: 71.65
+Layers: [20, 20]
+Result: 68.56
+Layers: [20, 30]
+Result: 72.68
+Layers: [20, 40]
+Result: 75.77
+Layers: [20, 50]
+Result: 75.26
+Layers: [20, 60]
+Result: 79.38
+Layers: [20, 70]
+Result: 78.35
+Layers: [20, 80]
+Result: 77.84
+Layers: [20, 90]
+Result: 75.77
+Layers: [20, 100]
+Result: 74.23
+Layers: [30, 10]
+Result: 70.62
+Layers: [30, 20]
+Result: 76.8
+Layers: [30, 30]
+Result: 76.29
+Layers: [30, 40]
+Result: 77.84
+Layers: [30, 50]
+Result: 76.8
+Layers: [30, 60]
+Result: 57.22
+Layers: [30, 70]
+Result: 51.03
+Layers: [30, 80]
+Result: 60.31
+Layers: [30, 90]
+Result: 48.97
+Layers: [30, 100]
+Result: 34.54
+Layers: [40, 10]
+Result: 70.1
+Layers: [40, 20]
+Result: 70.62
+Layers: [40, 30]
+Result: 76.8
+Layers: [40, 40]
+Result: 79.38
+Layers: [40, 50]
+Result: 64.95
+Layers: [40, 60]
+Result: 62.89
+Layers: [40, 70]
+Result: 43.3
+Layers: [40, 80]
+Result: 31.96
+Layers: [40, 90]
+Result: 45.36
+Layers: [40, 100]
+Result: 27.84
+Layers: [50, 10]
+Result: 69.59
+Layers: [50, 20]
+Result: 77.32
+Layers: [50, 30]
+Result: 79.38
+Layers: [50, 40]
+Result: 18.56
+Layers: [50, 50]
+Result: 43.3
+Layers: [50, 60]
+Result: 29.38
+Layers: [50, 70]
+Result: 22.16
+Layers: [50, 80]
+Result: 31.44
+Layers: [50, 90]
+Result: 22.16
+Layers: [50, 100]
+Result: 23.71
+Layers: [60, 10]
+Result: 77.84
+Layers: [60, 20]
+Result: 79.38
+Layers: [60, 30]
+Result: 52.06
+Layers: [60, 40]
+Result: 57.73
+Layers: [60, 50]
+Result: 22.68
+Layers: [60, 60]
+Result: 13.92
+Layers: [60, 70]
+Result: 23.2
+Layers: [60, 80]
+Result: 22.16
+Layers: [60, 90]
+Result: 29.38
+Layers: [60, 100]
+Result: 18.04
+Layers: [70, 10]
+Result: 79.9
+Layers: [70, 20]
+Result: 39.18
+Layers: [70, 30]
+Result: 56.19
+Layers: [70, 40]
+Result: 52.06
+Layers: [70, 50]
+Result: 22.68
+Layers: [70, 60]
+Result: 25.77
+Layers: [70, 70]
+Result: 19.59
+Layers: [70, 80]
+Result: 15.46
+Layers: [70, 90]
+Result: 17.01
+Layers: [70, 100]
+Result: 16.49
+Layers: [80, 10]
+Result: 67.53
+Layers: [80, 20]
+Result: 75.77
+Layers: [80, 30]
+Result: 30.93
+Layers: [80, 40]
+Result: 36.6
+Layers: [80, 50]
+Result: 22.16
+Layers: [80, 60]
+Result: 15.46
+Layers: [80, 70]
+Result: 22.68
+Layers: [80, 80]
+Result: 15.98
+Layers: [80, 90]
+Result: 19.59
+Layers: [80, 100]
+Result: 19.59
+Layers: [90, 10]
+Result: 77.84
+Layers: [90, 20]
+Result: 55.15
+Layers: [90, 30]
+Result: 68.56
+Layers: [90, 40]
+Result: 30.41
+Layers: [90, 50]
+Result: 21.13
+Layers: [90, 60]
+Result: 21.65
+Layers: [90, 70]
+Result: 24.74
+Layers: [90, 80]
+Result: 17.53
+Layers: [90, 90]
+Result: 14.95
+Layers: [90, 100]
+Result: 15.98
+Layers: [100, 10]
+Result: 59.79
+Layers: [100, 20]
+Result: 72.68
+Layers: [100, 30]
+Result: 64.95
+Layers: [100, 40]
+Result: 19.59
+Layers: [100, 50]
+Result: 33.51
+Layers: [100, 60]
+Result: 19.59
+Layers: [100, 70]
+Result: 13.92
+Layers: [100, 80]
+Result: 14.95
+Layers: [100, 90]
+Result: 13.4
+Layers: [100, 100]
+Result: 13.4
+Layers: [10, 10, 10]
+Result: 78.35
+Layers: [10, 10, 20]
+Result: 53.09
+Layers: [10, 10, 30]
+Result: 50.0
+Layers: [10, 10, 40]
+Result: 9.28
+Layers: [10, 10, 50]
+Result: 23.71
+Layers: [10, 10, 60]
+Result: 18.04
+Layers: [10, 10, 70]
+Result: 36.6
+Layers: [10, 10, 80]
+Result: 13.4
+Layers: [10, 10, 90]
+Result: 22.68
+Layers: [10, 10, 100]
+Result: 26.8
+Layers: [10, 20, 10]
+Result: 75.77
+Layers: [10, 20, 20]
+Result: 53.61
+Layers: [10, 20, 30]
+Result: 20.62
+Layers: [10, 20, 40]
+Result: 19.59
+Layers: [10, 20, 50]
+Result: 19.59
+Layers: [10, 20, 60]
+Result: 16.49
+Layers: [10, 20, 70]
+Result: 13.92
+Layers: [10, 20, 80]
+Result: 12.37
+Layers: [10, 20, 90]
+Result: 13.4
+Layers: [10, 20, 100]
+Result: 8.25
+Layers: [10, 30, 10]
+Result: 76.8
+Layers: [10, 30, 20]
+Result: 26.8
+Layers: [10, 30, 30]
+Result: 25.77
+Layers: [10, 30, 40]
+Result: 13.4
+Layers: [10, 30, 50]
+Result: 20.62
+Layers: [10, 30, 60]
+Result: 13.92
+Layers: [10, 30, 70]
+Result: 15.46
+Layers: [10, 30, 80]
+Result: 12.37
+Layers: [10, 30, 90]
+Result: 6.19
+Layers: [10, 30, 100]
+Result: 21.13
+Layers: [10, 40, 10]
+Result: 50.52
+Layers: [10, 40, 20]
+Result: 26.29
+Layers: [10, 40, 30]
+Result: 20.1
+Layers: [10, 40, 40]
+Result: 17.53
+Layers: [10, 40, 50]
+Result: 23.71
+Layers: [10, 40, 60]
+Result: 21.13
+Layers: [10, 40, 70]
+Result: 7.22
+Layers: [10, 40, 80]
+Result: 10.31
+Layers: [10, 40, 90]
+Result: 16.49
+Layers: [10, 40, 100]
+Result: 20.62
+Layers: [10, 50, 10]
+Result: 42.27
+Layers: [10, 50, 20]
+Result: 35.57
+Layers: [10, 50, 30]
+Result: 15.46
+Layers: [10, 50, 40]
+Result: 14.43
+Layers: [10, 50, 50]
+Result: 12.89
+Layers: [10, 50, 60]
+Result: 14.95
+Layers: [10, 50, 70]
+Result: 23.71
+Layers: [10, 50, 80]
+Result: 15.46
+Layers: [10, 50, 90]
+Result: 17.01
+Layers: [10, 50, 100]
+Result: 8.76
+Layers: [10, 60, 10]
+Result: 74.23
+Layers: [10, 60, 20]
+Result: 17.53
+Layers: [10, 60, 30]
+Result: 16.49
+Layers: [10, 60, 40]
+Result: 16.49
+Layers: [10, 60, 50]
+Result: 9.79
+Layers: [10, 60, 60]
+Result: 15.46
+Layers: [10, 60, 70]
+Result: 11.34
+Layers: [10, 60, 80]
+Result: 14.43
+Layers: [10, 60, 90]
+Result: 15.46
+Layers: [10, 60, 100]
+Result: 24.23
+Layers: [10, 70, 10]
+Result: 12.89
+Layers: [10, 70, 20]
+Result: 21.65
+Layers: [10, 70, 30]
+Result: 19.07
+Layers: [10, 70, 40]
+Result: 15.98
+Layers: [10, 70, 50]
+Result: 19.59
+Layers: [10, 70, 60]
+Result: 15.98
+Layers: [10, 70, 70]
+Result: 5.15
+Layers: [10, 70, 80]
+Result: 15.46
+Layers: [10, 70, 90]
+Result: 14.95
+Layers: [10, 70, 100]
+Result: 10.82
+Layers: [10, 80, 10]
+Result: 29.38
+Layers: [10, 80, 20]
+Result: 25.26
+Layers: [10, 80, 30]
+Result: 7.73
+Layers: [10, 80, 40]
+Result: 11.34
+Layers: [10, 80, 50]
+Result: 15.46
+Layers: [10, 80, 60]
+Result: 9.79
+Layers: [10, 80, 70]
+Result: 10.82
+Layers: [10, 80, 80]
+Result: 12.37
+Layers: [10, 80, 90]
+Result: 15.46
+Layers: [10, 80, 100]
+Result: 6.19
+Layers: [10, 90, 10]
+Result: 16.49
+Layers: [10, 90, 20]
+Result: 26.29
+Layers: [10, 90, 30]
+Result: 11.34
+Layers: [10, 90, 40]
+Result: 18.04
+Layers: [10, 90, 50]
+Result: 17.01
+Layers: [10, 90, 60]
+Result: 19.07
+Layers: [10, 90, 70]
+Result: 11.86
+Layers: [10, 90, 80]
+Result: 11.34
+Layers: [10, 90, 90]
+Result: 18.56
+Layers: [10, 90, 100]
+Result: 4.12
+Layers: [10, 100, 10]
+Result: 23.2
+Layers: [10, 100, 20]
+Result: 15.98
+Layers: [10, 100, 30]
+Result: 17.53
+Layers: [10, 100, 40]
+Result: 9.28
+Layers: [10, 100, 50]
+Result: 18.56
+Layers: [10, 100, 60]
+Result: 8.25
+Layers: [10, 100, 70]
+Result: 22.68
+Layers: [10, 100, 80]
+Result: 14.95
+Layers: [10, 100, 90]
+Result: 6.7
+Layers: [10, 100, 100]
+Result: 15.98
+Layers: [20, 10, 10]
+Result: 74.74
+Layers: [20, 10, 20]
+Result: 69.59
+Layers: [20, 10, 30]
+Result: 17.01
+Layers: [20, 10, 40]
+Result: 17.53
+Layers: [20, 10, 50]
+Result: 13.92
+Layers: [20, 10, 60]
+Result: 15.98
+Layers: [20, 10, 70]
+Result: 5.67
+Layers: [20, 10, 80]
+Result: 23.71
+Layers: [20, 10, 90]
+Result: 13.92
+Layers: [20, 10, 100]
+Result: 23.2
+Layers: [20, 20, 10]
+Result: 76.29
+Layers: [20, 20, 20]
+Result: 14.95
+Layers: [20, 20, 30]
+Result: 13.4
+Layers: [20, 20, 40]
+Result: 18.04
+Layers: [20, 20, 50]
+Result: 14.43
+Layers: [20, 20, 60]
+Result: 18.56
+Layers: [20, 20, 70]
+Result: 5.67
+Layers: [20, 20, 80]
+Result: 18.56
+Layers: [20, 20, 90]
+Result: 5.67
+Layers: [20, 20, 100]
+Result: 15.98
+Layers: [20, 30, 10]
+Result: 18.56
+Layers: [20, 30, 20]
+Result: 10.82
+Layers: [20, 30, 30]
+Result: 9.28
+Layers: [20, 30, 40]
+Result: 10.82
+Layers: [20, 30, 50]
+Result: 14.43
+Layers: [20, 30, 60]
+Result: 20.1
+Layers: [20, 30, 70]
+Result: 16.49
+Layers: [20, 30, 80]
+Result: 15.98
+Layers: [20, 30, 90]
+Result: 4.64
+Layers: [20, 30, 100]
+Result: 12.37
+Layers: [20, 40, 10]
+Result: 21.13
+Layers: [20, 40, 20]
+Result: 17.01
+Layers: [20, 40, 30]
+Result: 13.92
+Layers: [20, 40, 40]
+Result: 19.59
+Layers: [20, 40, 50]
+Result: 24.74
+Layers: [20, 40, 60]
+Result: 17.53
+Layers: [20, 40, 70]
+Result: 11.86
+Layers: [20, 40, 80]
+Result: 10.31
+Layers: [20, 40, 90]
+Result: 9.28
+Layers: [20, 40, 100]
+Result: 16.49
+Layers: [20, 50, 10]
+Result: 15.98
+Layers: [20, 50, 20]
+Result: 10.31
+Layers: [20, 50, 30]
+Result: 15.98
+Layers: [20, 50, 40]
+Result: 12.37
+Layers: [20, 50, 50]
+Result: 13.92
+Layers: [20, 50, 60]
+Result: 18.04
+Layers: [20, 50, 70]
+Result: 16.49
+Layers: [20, 50, 80]
+Result: 9.79
+Layers: [20, 50, 90]
+Result: 13.4
+Layers: [20, 50, 100]
+Result: 11.86
+Layers: [20, 60, 10]
+Result: 24.74
+Layers: [20, 60, 20]
+Result: 20.1
+Layers: [20, 60, 30]
+Result: 11.86
+Layers: [20, 60, 40]
+Result: 21.13
+Layers: [20, 60, 50]
+Result: 19.07
+Layers: [20, 60, 60]
+Result: 13.4
+Layers: [20, 60, 70]
+Result: 14.43
+Layers: [20, 60, 80]
+Result: 11.86
+Layers: [20, 60, 90]
+Result: 11.86
+Layers: [20, 60, 100]
+Result: 12.37
+Layers: [20, 70, 10]
+Result: 13.4
+Layers: [20, 70, 20]
+Result: 18.56
+Layers: [20, 70, 30]
+Result: 17.01
+Layers: [20, 70, 40]
+Result: 8.76
+Layers: [20, 70, 50]
+Result: 12.37
+Layers: [20, 70, 60]
+Result: 11.34
+Layers: [20, 70, 70]
+Result: 10.31
+Layers: [20, 70, 80]
+Result: 11.86
+Layers: [20, 70, 90]
+Result: 13.92
+Layers: [20, 70, 100]
+Result: 12.89
+Layers: [20, 80, 10]
+Result: 19.07
+Layers: [20, 80, 20]
+Result: 21.13
+Layers: [20, 80, 30]
+Result: 8.76
+Layers: [20, 80, 40]
+Result: 7.73
+Layers: [20, 80, 50]
+Result: 12.89
+Layers: [20, 80, 60]
+Result: 11.34
+Layers: [20, 80, 70]
+Result: 11.34
+Layers: [20, 80, 80]
+Result: 17.53
+Layers: [20, 80, 90]
+Result: 11.86
+Layers: [20, 80, 100]
+Result: 9.79
+Layers: [20, 90, 10]
+Result: 11.86
+Layers: [20, 90, 20]
+Result: 12.89
+Layers: [20, 90, 30]
+Result: 17.53
+Layers: [20, 90, 40]
+Result: 17.01
+Layers: [20, 90, 50]
+Result: 10.82
+Layers: [20, 90, 60]
+Result: 17.53
+Layers: [20, 90, 70]
+Result: 11.34
+Layers: [20, 90, 80]
+Result: 15.98
+Layers: [20, 90, 90]
+Result: 17.01
+Layers: [20, 90, 100]
+Result: 20.1
+Layers: [20, 100, 10]
+Result: 14.43
+Layers: [20, 100, 20]
+Result: 15.98
+Layers: [20, 100, 30]
+Result: 12.37
+Layers: [20, 100, 40]
+Result: 9.28
+Layers: [20, 100, 50]
+Result: 11.86
+Layers: [20, 100, 60]
+Result: 7.73
+Layers: [20, 100, 70]
+Result: 14.43
+Layers: [20, 100, 80]
+Result: 14.43
+Layers: [20, 100, 90]
+Result: 21.13
+Layers: [20, 100, 100]
+Result: 10.31
+Layers: [30, 10, 10]
+Result: 59.79
+Layers: [30, 10, 20]
+Result: 63.92
+Layers: [30, 10, 30]
+Result: 17.01
+Layers: [30, 10, 40]
+Result: 13.4
+Layers: [30, 10, 50]
+Result: 13.92
+Layers: [30, 10, 60]
+Result: 9.79
+Layers: [30, 10, 70]
+Result: 7.22
+Layers: [30, 10, 80]
+Result: 9.28
+Layers: [30, 10, 90]
+Result: 12.89
+Layers: [30, 10, 100]
+Result: 10.82
+Layers: [30, 20, 10]
+Result: 15.98
+Layers: [30, 20, 20]
+Result: 6.7
+Layers: [30, 20, 30]
+Result: 13.4
+Layers: [30, 20, 40]
+Result: 9.79
+Layers: [30, 20, 50]
+Result: 6.7
+Layers: [30, 20, 60]
+Result: 12.37
+Layers: [30, 20, 70]
+Result: 19.07
+Layers: [30, 20, 80]
+Result: 10.82
+Layers: [30, 20, 90]
+Result: 12.89
+Layers: [30, 20, 100]
+Result: 13.4
+Layers: [30, 30, 10]
+Result: 24.23
+Layers: [30, 30, 20]
+Result: 10.82
+Layers: [30, 30, 30]
+Result: 11.86
+Layers: [30, 30, 40]
+Result: 19.07
+Layers: [30, 30, 50]
+Result: 13.92
+Layers: [30, 30, 60]
+Result: 17.53
+Layers: [30, 30, 70]
+Result: 14.43
+Layers: [30, 30, 80]
+Result: 16.49
+Layers: [30, 30, 90]
+Result: 18.04
+Layers: [30, 30, 100]
+Result: 11.34
+Layers: [30, 40, 10]
+Result: 14.95
+Layers: [30, 40, 20]
+Result: 12.37
+Layers: [30, 40, 30]
+Result: 17.01
+Layers: [30, 40, 40]
+Result: 16.49
+Layers: [30, 40, 50]
+Result: 12.37
+Layers: [30, 40, 60]
+Result: 12.89
+Layers: [30, 40, 70]
+Result: 14.95
+Layers: [30, 40, 80]
+Result: 11.34
+Layers: [30, 40, 90]
+Result: 15.98
+Layers: [30, 40, 100]
+Result: 17.01
+Layers: [30, 50, 10]
+Result: 10.82
+Layers: [30, 50, 20]
+Result: 16.49
+Layers: [30, 50, 30]
+Result: 21.65
+Layers: [30, 50, 40]
+Result: 18.04
+Layers: [30, 50, 50]
+Result: 21.13
+Layers: [30, 50, 60]
+Result: 15.98
+Layers: [30, 50, 70]
+Result: 12.89
+Layers: [30, 50, 80]
+Result: 13.92
+Layers: [30, 50, 90]
+Result: 12.37
+Layers: [30, 50, 100]
+Result: 13.4
+Layers: [30, 60, 10]
+Result: 13.92
+Layers: [30, 60, 20]
+Result: 15.98
+Layers: [30, 60, 30]
+Result: 16.49
+Layers: [30, 60, 40]
+Result: 9.28
+Layers: [30, 60, 50]
+Result: 18.56
+Layers: [30, 60, 60]
+Result: 14.43
+Layers: [30, 60, 70]
+Result: 6.19
+Layers: [30, 60, 80]
+Result: 12.37
+Layers: [30, 60, 90]
+Result: 17.01
+Layers: [30, 60, 100]
+Result: 10.82
+Layers: [30, 70, 10]
+Result: 11.34
+Layers: [30, 70, 20]
+Result: 13.92
+Layers: [30, 70, 30]
+Result: 14.95
+Layers: [30, 70, 40]
+Result: 13.92
+Layers: [30, 70, 50]
+Result: 15.46
+Layers: [30, 70, 60]
+Result: 18.04
+Layers: [30, 70, 70]
+Result: 19.59
+Layers: [30, 70, 80]
+Result: 17.53
+Layers: [30, 70, 90]
+Result: 15.98
+Layers: [30, 70, 100]
+Result: 12.37
+Layers: [30, 80, 10]
+Result: 18.04
+Layers: [30, 80, 20]
+Result: 9.79
+Layers: [30, 80, 30]
+Result: 19.07
+Layers: [30, 80, 40]
+Result: 8.76
+Layers: [30, 80, 50]
+Result: 17.53
+Layers: [30, 80, 60]
+Result: 11.34
+Layers: [30, 80, 70]
+Result: 15.46
+Layers: [30, 80, 80]
+Result: 12.37
+Layers: [30, 80, 90]
+Result: 8.76
+Layers: [30, 80, 100]
+Result: 12.37
+Layers: [30, 90, 10]
+Result: 19.07
+Layers: [30, 90, 20]
+Result: 7.22
+Layers: [30, 90, 30]
+Result: 15.98
+Layers: [30, 90, 40]
+Result: 13.4
+Layers: [30, 90, 50]
+Result: 11.86
+Layers: [30, 90, 60]
+Result: 14.43
+Layers: [30, 90, 70]
+Result: 15.46
+Layers: [30, 90, 80]
+Result: 18.56
+Layers: [30, 90, 90]
+Result: 10.31
+Layers: [30, 90, 100]
+Result: 10.31
+Layers: [30, 100, 10]
+Result: 8.25
+Layers: [30, 100, 20]
+Result: 10.31
+Layers: [30, 100, 30]
+Result: 11.34
+Layers: [30, 100, 40]
+Result: 11.86
+Layers: [30, 100, 50]
+Result: 10.31
+Layers: [30, 100, 60]
+Result: 10.31
+Layers: [30, 100, 70]
+Result: 14.95
+Layers: [30, 100, 80]
+Result: 14.43
+Layers: [30, 100, 90]
+Result: 17.01
+Layers: [30, 100, 100]
+Result: 13.4
+Layers: [40, 10, 10]
+Result: 51.55
+Layers: [40, 10, 20]
+Result: 24.74
+Layers: [40, 10, 30]
+Result: 12.89
+Layers: [40, 10, 40]
+Result: 17.53
+Layers: [40, 10, 50]
+Result: 19.59
+Layers: [40, 10, 60]
+Result: 11.86
+Layers: [40, 10, 70]
+Result: 17.53
+Layers: [40, 10, 80]
+Result: 17.01
+Layers: [40, 10, 90]
+Result: 10.82
+Layers: [40, 10, 100]
+Result: 8.76
+Layers: [40, 20, 10]
+Result: 12.89
+Layers: [40, 20, 20]
+Result: 11.86
+Layers: [40, 20, 30]
+Result: 18.56
+Layers: [40, 20, 40]
+Result: 20.62
+Layers: [40, 20, 50]
+Result: 15.98
+Layers: [40, 20, 60]
+Result: 21.65
+Layers: [40, 20, 70]
+Result: 15.46
+Layers: [40, 20, 80]
+Result: 21.13
+Layers: [40, 20, 90]
+Result: 19.59
+Layers: [40, 20, 100]
+Result: 12.89
+Layers: [40, 30, 10]
+Result: 19.59
+Layers: [40, 30, 20]
+Result: 13.92
+Layers: [40, 30, 30]
+Result: 10.82
+Layers: [40, 30, 40]
+Result: 15.46
+Layers: [40, 30, 50]
+Result: 13.4
+Layers: [40, 30, 60]
+Result: 21.13
+Layers: [40, 30, 70]
+Result: 13.92
+Layers: [40, 30, 80]
+Result: 18.04
+Layers: [40, 30, 90]
+Result: 8.76
+Layers: [40, 30, 100]
+Result: 19.59
+Layers: [40, 40, 10]
+Result: 19.07
+Layers: [40, 40, 20]
+Result: 24.74
+Layers: [40, 40, 30]
+Result: 12.89
+Layers: [40, 40, 40]
+Result: 8.76
+Layers: [40, 40, 50]
+Result: 11.86
+Layers: [40, 40, 60]
+Result: 15.98
+Layers: [40, 40, 70]
+Result: 15.98
+Layers: [40, 40, 80]
+Result: 10.82
+Layers: [40, 40, 90]
+Result: 13.92
+Layers: [40, 40, 100]
+Result: 12.89
+Layers: [40, 50, 10]
+Result: 15.98
+Layers: [40, 50, 20]
+Result: 21.13
+Layers: [40, 50, 30]
+Result: 11.34
+Layers: [40, 50, 40]
+Result: 17.01
+Layers: [40, 50, 50]
+Result: 10.31
+Layers: [40, 50, 60]
+Result: 11.34
+Layers: [40, 50, 70]
+Result: 11.86
+Layers: [40, 50, 80]
+Result: 13.92
+Layers: [40, 50, 90]
+Result: 22.16
+Layers: [40, 50, 100]
+Result: 10.82
+Layers: [40, 60, 10]
+Result: 19.59
+Layers: [40, 60, 20]
+Result: 17.01
+Layers: [40, 60, 30]
+Result: 15.98
+Layers: [40, 60, 40]
+Result: 9.79
+Layers: [40, 60, 50]
+Result: 18.04
+Layers: [40, 60, 60]
+Result: 14.43
+Layers: [40, 60, 70]
+Result: 15.46
+Layers: [40, 60, 80]
+Result: 15.98
+Layers: [40, 60, 90]
+Result: 14.95
+Layers: [40, 60, 100]
+Result: 18.56
+Layers: [40, 70, 10]
+Result: 20.62
+Layers: [40, 70, 20]
+Result: 10.82
+Layers: [40, 70, 30]
+Result: 15.46
+Layers: [40, 70, 40]
+Result: 13.92
+Layers: [40, 70, 50]
+Result: 11.86
+Layers: [40, 70, 60]
+Result: 11.34
+Layers: [40, 70, 70]
+Result: 14.43
+Layers: [40, 70, 80]
+Result: 10.82
+Layers: [40, 70, 90]
+Result: 14.95
+Layers: [40, 70, 100]
+Result: 12.89
+Layers: [40, 80, 10]
+Result: 12.89
+Layers: [40, 80, 20]
+Result: 11.34
+Layers: [40, 80, 30]Layers: [10, 30, 10]
+Result: 76.8
+Result: 14.43
+Layers: [40, 80, 40]
+Result: 14.95
+Layers: [40, 80, 50]
+Result: 12.37
+Layers: [40, 80, 60]
+Result: 19.59
+Layers: [40, 80, 70]
+Result: 12.37
+Layers: [40, 80, 80]
+Result: 7.73
+Layers: [40, 80, 90]
+Result: 14.95
+Layers: [40, 80, 100]
+Result: 14.95
+Layers: [40, 90, 10]
+Result: 15.98
+Layers: [40, 90, 20]
+Result: 14.95
+Layers: [40, 90, 30]
+Result: 11.34
+Layers: [40, 90, 40]
+Result: 21.13
+Layers: [40, 90, 50]
+Result: 12.89
+Layers: [40, 90, 60]
+Result: 18.04
+Layers: [40, 90, 70]
+Result: 12.37
+Layers: [40, 90, 80]
+Result: 15.98
+Layers: [40, 90, 90]
+Result: 10.82
+Layers: [40, 90, 100]
+Result: 14.43
+Layers: [40, 100, 10]
+Result: 12.89
+Layers: [40, 100, 20]
+Result: 17.53
+Layers: [40, 100, 30]
+Result: 11.86
+Layers: [40, 100, 40]
+Result: 20.1
+Layers: [40, 100, 50]
+Result: 17.01
+Layers: [40, 100, 60]
+Result: 13.92
+Layers: [40, 100, 70]
+Result: 11.34
+Layers: [40, 100, 80]
+Result: 9.28
+Layers: [40, 100, 90]
+Result: 19.59
+Layers: [40, 100, 100]
+Result: 13.4
+Layers: [50, 10, 10]
+Result: 22.68
+Layers: [50, 10, 20]
+Result: 34.54
+Layers: [50, 10, 30]
+Result: 14.43
+Layers: [50, 10, 40]
+Result: 24.23
+Layers: [50, 10, 50]
+Result: 14.95
+Layers: [50, 10, 60]
+Result: 17.53
+Layers: [50, 10, 70]
+Result: 5.67
+Layers: [50, 10, 80]
+Result: 17.01
+Layers: [50, 10, 90]
+Result: 12.37
+Layers: [50, 10, 100]
+Result: 15.46
+Layers: [50, 20, 10]
+Result: 16.49
+Layers: [50, 20, 20]
+Result: 14.43
+Layers: [50, 20, 30]
+Result: 21.13
+Layers: [50, 20, 40]
+Result: 13.92
+Layers: [50, 20, 50]
+Result: 8.25
+Layers: [50, 20, 60]
+Result: 14.95
+Layers: [50, 20, 70]
+Result: 13.4
+Layers: [50, 20, 80]
+Result: 19.07
+Layers: [50, 20, 90]
+Result: 15.98
+Layers: [50, 20, 100]
+Result: 13.4
+Layers: [50, 30, 10]
+Result: 14.43
+Layers: [50, 30, 20]
+Result: 10.82
+Layers: [50, 30, 30]
+Result: 11.86
+Layers: [50, 30, 40]
+Result: 11.86
+Layers: [50, 30, 50]
+Result: 15.98
+Layers: [50, 30, 60]
+Result: 17.53
+Layers: [50, 30, 70]
+Result: 14.95
+Layers: [50, 30, 80]
+Result: 13.4
+Layers: [50, 30, 90]
+Result: 19.59
+Layers: [50, 30, 100]
+Result: 13.92
+Layers: [50, 40, 10]
+Result: 20.1
+Layers: [50, 40, 20]
+Result: 16.49
+Layers: [50, 40, 30]
+Result: 13.92
+Layers: [50, 40, 40]
+Result: 19.07
+Layers: [50, 40, 50]
+Result: 21.65
+Layers: [50, 40, 60]
+Result: 14.43
+Layers: [50, 40, 70]
+Result: 12.89
+Layers: [50, 40, 80]
+Result: 20.62
+Layers: [50, 40, 90]
+Result: 12.89
+Layers: [50, 40, 100]
+Result: 12.37
+Layers: [50, 50, 10]
+Result: 17.53
+Layers: [50, 50, 20]
+Result: 20.1
+Layers: [50, 50, 30]
+Result: 13.92
+Layers: [50, 50, 40]
+Result: 14.95
+Layers: [50, 50, 50]
+Result: 14.95
+Layers: [50, 50, 60]
+Result: 11.34
+Layers: [50, 50, 70]
+Result: 18.04
+Layers: [50, 50, 80]
+Result: 14.43
+Layers: [50, 50, 90]
+Result: 10.82
+Layers: [50, 50, 100]
+Result: 14.95
+Layers: [50, 60, 10]
+Result: 17.53
+Layers: [50, 60, 20]
+Result: 14.43
+Layers: [50, 60, 30]
+Result: 13.92
+Layers: [50, 60, 40]
+Result: 15.98
+Layers: [50, 60, 50]
+Result: 19.07
+Layers: [50, 60, 60]
+Result: 19.07
+Layers: [50, 60, 70]
+Result: 17.53
+Layers: [50, 60, 80]
+Result: 19.59
+Layers: [50, 60, 90]
+Result: 10.31
+Layers: [50, 60, 100]
+Result: 12.37
+Layers: [50, 70, 10]
+Result: 16.49
+Layers: [50, 70, 20]
+Result: 14.95
+Layers: [50, 70, 30]
+Result: 10.82
+Layers: [50, 70, 40]
+Result: 10.31
+Layers: [50, 70, 50]
+Result: 22.16
+Layers: [50, 70, 60]
+Result: 17.53
+Layers: [50, 70, 70]
+Result: 15.46
+Layers: [50, 70, 80]
+Result: 14.43
+Layers: [50, 70, 90]
+Result: 11.34
+Layers: [50, 70, 100]
+Result: 6.7
+Layers: [50, 80, 10]
+Result: 13.92
+Layers: [50, 80, 20]
+Result: 20.62
+Layers: [50, 80, 30]
+Result: 14.95
+Layers: [50, 80, 40]
+Result: 17.01
+Layers: [50, 80, 50]
+Result: 18.04
+Layers: [50, 80, 60]
+Result: 12.89
+Layers: [50, 80, 70]
+Result: 12.89
+Layers: [50, 80, 80]
+Result: 12.37
+Layers: [50, 80, 90]
+Result: 11.86
+Layers: [50, 80, 100]
+Result: 14.43
+Layers: [50, 90, 10]
+Result: 18.56
+Layers: [50, 90, 20]
+Result: 11.86
+Layers: [50, 90, 30]
+Result: 16.49
+Layers: [50, 90, 40]
+Result: 19.07
+Layers: [50, 90, 50]
+Result: 13.92
+Layers: [50, 90, 60]
+Result: 18.04
+Layers: [50, 90, 70]
+Result: 18.56
+Layers: [50, 90, 80]
+Result: 12.89
+Layers: [50, 90, 90]
+Result: 18.04
+Layers: [50, 90, 100]
+Result: 9.79
+Layers: [50, 100, 10]
+Result: 14.43
+Layers: [50, 100, 20]
+Result: 18.56
+Layers: [50, 100, 30]
+Result: 9.28
+Layers: [50, 100, 40]
+Result: 14.95
+Layers: [50, 100, 50]
+Result: 12.37
+Layers: [50, 100, 60]
+Result: 9.79
+Layers: [50, 100, 70]
+Result: 12.89
+Layers: [50, 100, 80]
+Result: 14.95
+Layers: [50, 100, 90]
+Result: 13.4
+Layers: [50, 100, 100]
+Result: 11.86
+Layers: [60, 10, 10]
+Result: 77.32
+Layers: [60, 10, 20]
+Result: 18.56
+Layers: [60, 10, 30]
+Result: 22.16
+Layers: [60, 10, 40]
+Result: 14.95
+Layers: [60, 10, 50]
+Result: 14.43
+Layers: [60, 10, 60]
+Result: 13.92
+Layers: [60, 10, 70]
+Result: 14.95
+Layers: [60, 10, 80]
+Result: 12.37
+Layers: [60, 10, 90]
+Result: 13.4
+Layers: [60, 10, 100]
+Result: 18.04
+Layers: [60, 20, 10]
+Result: 16.49
+Layers: [60, 20, 20]
+Result: 18.56
+Layers: [60, 20, 30]
+Result: 15.98
+Layers: [60, 20, 40]
+Result: 8.76
+Layers: [60, 20, 50]
+Result: 10.31
+Layers: [60, 20, 60]
+Result: 11.34
+Layers: [60, 20, 70]
+Result: 13.4
+Layers: [60, 20, 80]
+Result: 9.28
+Layers: [60, 20, 90]
+Result: 17.01
+Layers: [60, 20, 100]
+Result: 12.37
+Layers: [60, 30, 10]
+Result: 21.13
+Layers: [60, 30, 20]
+Result: 19.59
+Layers: [60, 30, 30]
+Result: 14.43
+Layers: [60, 30, 40]
+Result: 11.34
+Layers: [60, 30, 50]
+Result: 13.4
+Layers: [60, 30, 60]
+Result: 14.43
+Layers: [60, 30, 70]
+Result: 15.46
+Layers: [60, 30, 80]
+Result: 12.89
+Layers: [60, 30, 90]
+Result: 13.4
+Layers: [60, 30, 100]
+Result: 17.53
+Layers: [60, 40, 10]
+Result: 34.54
+Layers: [60, 40, 20]
+Result: 13.4
+Layers: [60, 40, 30]
+Result: 14.43
+Layers: [60, 40, 40]
+Result: 15.98
+Layers: [60, 40, 50]
+Result: 14.43
+Layers: [60, 40, 60]
+Result: 17.53
+Layers: [60, 40, 70]
+Result: 11.86
+Layers: [60, 40, 80]
+Result: 14.95
+Layers: [60, 40, 90]
+Result: 12.89
+Layers: [60, 40, 100]
+Result: 17.01
+Layers: [60, 50, 10]
+Result: 11.86
+Layers: [60, 50, 20]
+Result: 18.04
+Layers: [60, 50, 30]
+Result: 14.43
+Layers: [60, 50, 40]
+Result: 12.37
+Layers: [60, 50, 50]
+Result: 11.86
+Layers: [60, 50, 60]
+Result: 20.62
+Layers: [60, 50, 70]
+Result: 17.53
+Layers: [60, 50, 80]
+Result: 19.07
+Layers: [60, 50, 90]
+Result: 16.49
+Layers: [60, 50, 100]
+Result: 13.92
+Layers: [60, 60, 10]
+Result: 20.1
+Layers: [60, 60, 20]
+Result: 17.01
+Layers: [60, 60, 30]
+Result: 19.07
+Layers: [60, 60, 40]
+Result: 12.89
+Layers: [60, 60, 50]
+Result: 20.1
+Layers: [60, 60, 60]
+Result: 14.95
+Layers: [60, 60, 70]
+Result: 13.92
+Layers: [60, 60, 80]
+Result: 12.37
+Layers: [60, 60, 90]
+Result: 21.13
+Layers: [60, 60, 100]
+Result: 11.34
+Layers: [60, 70, 10]
+Result: 19.07
+Layers: [60, 70, 20]
+Result: 19.07
+Layers: [60, 70, 30]
+Result: 11.86
+Layers: [60, 70, 40]
+Result: 14.95
+Layers: [60, 70, 50]
+Result: 12.37
+Layers: [60, 70, 60]
+Result: 12.89
+Layers: [60, 70, 70]
+Result: 14.43
+Layers: [60, 70, 80]
+Result: 18.04
+Layers: [60, 70, 90]
+Result: 18.56
+Layers: [60, 70, 100]
+Result: 21.13
+Layers: [60, 80, 10]
+Result: 15.98
+Layers: [60, 80, 20]
+Result: 11.86
+Layers: [60, 80, 30]
+Result: 19.59
+Layers: [60, 80, 40]
+Result: 12.37
+Layers: [60, 80, 50]
+Result: 18.04
+Layers: [60, 80, 60]
+Result: 18.56
+Layers: [60, 80, 70]
+Result: 21.13
+Layers: [60, 80, 80]
+Result: 13.92
+Layers: [60, 80, 90]
+Result: 18.04
+Layers: [60, 80, 100]
+Result: 13.92
+Layers: [60, 90, 10]
+Result: 18.04
+Layers: [60, 90, 20]
+Result: 16.49
+Layers: [60, 90, 30]
+Result: 15.46
+Layers: [60, 90, 40]
+Result: 14.43
+Layers: [60, 90, 50]
+Result: 15.46
+Layers: [60, 90, 60]
+Result: 10.31
+Layers: [60, 90, 70]
+Result: 13.92
+Layers: [60, 90, 80]
+Result: 15.46
+Layers: [60, 90, 90]
+Result: 20.62
+Layers: [60, 90, 100]
+Result: 13.4
+Layers: [60, 100, 10]
+Result: 12.37
+Layers: [60, 100, 20]
+Result: 13.4
+Layers: [60, 100, 30]
+Result: 15.46
+Layers: [60, 100, 40]
+Result: 14.43
+Layers: [60, 100, 50]
+Result: 8.76
+Layers: [60, 100, 60]
+Result: 10.31
+Layers: [60, 100, 70]
+Result: 19.59
+Layers: [60, 100, 80]
+Result: 18.04
+Layers: [60, 100, 90]
+Result: 10.82
+Layers: [60, 100, 100]
+Result: 10.82
+Layers: [70, 10, 10]
+Result: 10.82
+Layers: [70, 10, 20]
+Result: 12.89
+Layers: [70, 10, 30]
+Result: 10.82
+Layers: [70, 10, 40]
+Result: 10.31
+Layers: [70, 10, 50]
+Result: 15.98
+Layers: [70, 10, 60]
+Result: 8.76
+Layers: [70, 10, 70]
+Result: 15.98
+Layers: [70, 10, 80]
+Result: 10.82
+Layers: [70, 10, 90]
+Result: 17.01
+Layers: [70, 10, 100]
+Result: 14.95
+Layers: [70, 20, 10]
+Result: 18.56
+Layers: [70, 20, 20]
+Result: 17.53
+Layers: [70, 20, 30]
+Result: 15.46
+Layers: [70, 20, 40]
+Result: 17.53
+Layers: [70, 20, 50]
+Result: 14.95
+Layers: [70, 20, 60]
+Result: 14.95
+Layers: [70, 20, 70]
+Result: 18.56
+Layers: [70, 20, 80]
+Result: 22.16
+Layers: [70, 20, 90]
+Result: 11.86
+Layers: [70, 20, 100]
+Result: 14.43
+Layers: [70, 30, 10]
+Result: 46.39
+Layers: [70, 30, 20]
+Result: 14.95
+Layers: [70, 30, 30]
+Result: 11.34
+Layers: [70, 30, 40]
+Result: 16.49
+Layers: [70, 30, 50]
+Result: 19.59
+Layers: [70, 30, 60]
+Result: 20.1
+Layers: [70, 30, 70]
+Result: 14.43
+Layers: [70, 30, 80]
+Result: 15.46
+Layers: [70, 30, 90]
+Result: 12.89
+Layers: [70, 30, 100]
+Result: 17.01
+Layers: [70, 40, 10]
+Result: 14.95
+Layers: [70, 40, 20]
+Result: 15.98
+Layers: [70, 40, 30]
+Result: 17.53
+Layers: [70, 40, 40]
+Result: 16.49
+Layers: [70, 40, 50]
+Result: 18.56
+Layers: [70, 40, 60]
+Result: 15.98
+Layers: [70, 40, 70]
+Result: 12.37
+Layers: [70, 40, 80]
+Result: 21.65
+Layers: [70, 40, 90]
+Result: 11.86
+Layers: [70, 40, 100]
+Result: 18.04
+Layers: [70, 50, 10]
+Result: 16.49
+Layers: [70, 50, 20]
+Result: 17.53
+Layers: [70, 50, 30]
+Result: 19.07
+Layers: [70, 50, 40]
+Result: 12.37
+Layers: [70, 50, 50]
+Result: 15.46
+Layers: [70, 50, 60]
+Result: 17.53
+Layers: [70, 50, 70]
+Result: 18.56
+Layers: [70, 50, 80]
+Result: 17.01
+Layers: [70, 50, 90]
+Result: 11.34
+Layers: [70, 50, 100]
+Result: 12.37
+Layers: [70, 60, 10]
+Result: 16.49
+Layers: [70, 60, 20]
+Result: 13.4
+Layers: [70, 60, 30]
+Result: 14.95
+Layers: [70, 60, 40]
+Result: 13.4
+Layers: [70, 60, 50]
+Result: 17.01
+Layers: [70, 60, 60]
+Result: 18.04
+Layers: [70, 60, 70]
+Result: 12.37
+Layers: [70, 60, 80]
+Result: 18.04
+Layers: [70, 60, 90]
+Result: 11.34
+Layers: [70, 60, 100]
+Result: 11.86
+Layers: [70, 70, 10]
+Result: 17.01
+Layers: [70, 70, 20]
+Result: 15.46
+Layers: [70, 70, 30]
+Result: 19.07
+Layers: [70, 70, 40]
+Result: 18.04
+Layers: [70, 70, 50]
+Result: 15.46
+Layers: [70, 70, 60]
+Result: 11.86
+Layers: [70, 70, 70]
+Result: 16.49
+Layers: [70, 70, 80]
+Result: 8.76
+Layers: [70, 70, 90]
+Result: 20.1
+Layers: [70, 70, 100]
+Result: 16.49
+Layers: [70, 80, 10]
+Result: 18.04
+Layers: [70, 80, 20]
+Result: 13.92
+Layers: [70, 80, 30]
+Result: 20.62
+Layers: [70, 80, 40]
+Result: 15.98
+Layers: [70, 80, 50]
+Result: 13.4
+Layers: [70, 80, 60]
+Result: 14.95
+Layers: [70, 80, 70]
+Result: 16.49
+Layers: [70, 80, 80]
+Result: 12.89
+Layers: [70, 80, 90]
+Result: 16.49
+Layers: [70, 80, 100]
+Result: 13.4
+Layers: [70, 90, 10]
+Result: 14.95
+Layers: [70, 90, 20]
+Result: 15.98
+Layers: [70, 90, 30]
+Result: 17.53
+Layers: [70, 90, 40]
+Result: 19.07
+Layers: [70, 90, 50]
+Result: 12.37
+Layers: [70, 90, 60]
+Result: 12.89
+Layers: [70, 90, 70]
+Result: 20.62
+Layers: [70, 90, 80]
+Result: 13.92
+Layers: [70, 90, 90]
+Result: 15.98
+Layers: [70, 90, 100]
+Result: 9.28
+Layers: [70, 100, 10]
+Result: 14.95
+Layers: [70, 100, 20]
+Result: 14.43
+Layers: [70, 100, 30]
+Result: 18.04
+Layers: [70, 100, 40]
+Result: 13.92
+Layers: [70, 100, 50]
+Result: 14.43
+Layers: [70, 100, 60]
+Result: 9.79
+Layers: [70, 100, 70]
+Result: 12.89
+Layers: [70, 100, 80]
+Result: 12.37
+Layers: [70, 100, 90]
+Result: 15.98
+Layers: [70, 100, 100]
+Result: 12.89
+Layers: [80, 10, 10]
+Result: 12.89
+Layers: [80, 10, 20]
+Result: 18.04
+Layers: [80, 10, 30]
+Result: 8.76
+Layers: [80, 10, 40]
+Result: 13.4
+Layers: [80, 10, 50]
+Result: 12.37
+Layers: [80, 10, 60]
+Result: 12.89
+Layers: [80, 10, 70]
+Result: 10.31
+Layers: [80, 10, 80]
+Result: 11.34
+Layers: [80, 10, 90]
+Result: 15.98
+Layers: [80, 10, 100]
+Result: 16.49
+Layers: [80, 20, 10]
+Result: 6.7
+Layers: [80, 20, 20]
+Result: 20.1
+Layers: [80, 20, 30]
+Result: 11.86
+Layers: [80, 20, 40]
+Result: 12.89
+Layers: [80, 20, 50]
+Result: 14.95
+Layers: [80, 20, 60]
+Result: 18.56
+Layers: [80, 20, 70]
+Result: 12.37
+Layers: [80, 20, 80]
+Result: 21.13
+Layers: [80, 20, 90]
+Result: 12.89
+Layers: [80, 20, 100]
+Result: 15.98
+Layers: [80, 30, 10]
+Result: 17.01
+Layers: [80, 30, 20]
+Result: 10.82
+Layers: [80, 30, 30]
+Result: 18.56
+Layers: [80, 30, 40]
+Result: 10.31
+Layers: [80, 30, 50]
+Result: 14.95
+Layers: [80, 30, 60]
+Result: 17.53
+Layers: [80, 30, 70]
+Result: 18.04
+Layers: [80, 30, 80]
+Result: 20.1
+Layers: [80, 30, 90]
+Result: 18.04
+Layers: [80, 30, 100]
+Result: 18.56
+Layers: [80, 40, 10]
+Result: 11.34
+Layers: [80, 40, 20]
+Result: 20.1
+Layers: [80, 40, 30]
+Result: 13.92
+Layers: [80, 40, 40]
+Result: 10.82
+Layers: [80, 40, 50]
+Result: 21.65
+Layers: [80, 40, 60]
+Result: 16.49
+Layers: [80, 40, 70]
+Result: 14.43
+Layers: [80, 40, 80]
+Result: 18.56
+Layers: [80, 40, 90]
+Result: 15.98
+Layers: [80, 40, 100]
+Result: 15.46
+Layers: [80, 50, 10]
+Result: 12.89
+Layers: [80, 50, 20]
+Result: 14.95
+Layers: [80, 50, 30]
+Result: 19.07
+Layers: [80, 50, 40]
+Result: 20.1
+Layers: [80, 50, 50]
+Result: 13.4
+Layers: [80, 50, 60]
+Result: 15.46
+Layers: [80, 50, 70]
+Result: 14.95
+Layers: [80, 50, 80]
+Result: 12.37
+Layers: [80, 50, 90]
+Result: 15.46
+Layers: [80, 50, 100]
+Result: 17.01
+Layers: [80, 60, 10]
+Result: 9.79
+Layers: [80, 60, 20]
+Result: 15.98
+Layers: [80, 60, 30]
+Result: 16.49
+Layers: [80, 60, 40]
+Result: 18.56
+Layers: [80, 60, 50]
+Result: 15.98
+Layers: [80, 60, 60]
+Result: 14.95
+Layers: [80, 60, 70]
+Result: 17.01
+Layers: [80, 60, 80]
+Result: 13.92
+Layers: [80, 60, 90]
+Result: 17.01
+Layers: [80, 60, 100]
+Result: 8.25
+Layers: [80, 70, 10]
+Result: 13.92
+Layers: [80, 70, 20]
+Result: 13.4
+Layers: [80, 70, 30]
+Result: 15.46
+Layers: [80, 70, 40]
+Result: 14.95
+Layers: [80, 70, 50]
+Result: 9.28
+Layers: [80, 70, 60]
+Result: 18.56
+Layers: [80, 70, 70]
+Result: 15.46
+Layers: [80, 70, 80]
+Result: 19.07
+Layers: [80, 70, 90]
+Result: 11.86
+Layers: [80, 70, 100]
+Result: 11.86
+Layers: [80, 80, 10]
+Result: 18.04
+Layers: [80, 80, 20]
+Result: 18.04
+Layers: [80, 80, 30]
+Result: 18.04
+Layers: [80, 80, 40]
+Result: 17.01
+Layers: [80, 80, 50]
+Result: 10.82
+Layers: [80, 80, 60]
+Result: 19.59
+Layers: [80, 80, 70]
+Result: 15.98
+Layers: [80, 80, 80]
+Result: 18.56
+Layers: [80, 80, 90]
+Result: 11.86
+Layers: [80, 80, 100]
+Result: 14.43
+Layers: [80, 90, 10]
+Result: 13.4
+Layers: [80, 90, 20]
+Result: 12.37
+Layers: [80, 90, 30]
+Result: 17.53
+Layers: [80, 90, 40]
+Result: 22.16
+Layers: [80, 90, 50]
+Result: 17.01
+Layers: [80, 90, 60]
+Result: 12.37
+Layers: [80, 90, 70]
+Result: 13.4
+Layers: [80, 90, 80]
+Result: 12.89
+Layers: [80, 90, 90]
+Result: 13.4
+Layers: [80, 90, 100]
+Result: 12.37
+Layers: [80, 100, 10]
+Result: 12.37
+Layers: [80, 100, 20]
+Result: 16.49
+Layers: [80, 100, 30]
+Result: 15.98
+Layers: [80, 100, 40]
+Result: 15.46
+Layers: [80, 100, 50]
+Result: 14.95
+Layers: [80, 100, 60]
+Result: 17.01
+Layers: [80, 100, 70]
+Result: 24.23
+Layers: [80, 100, 80]
+Result: 15.46
+Layers: [80, 100, 90]
+Result: 17.01
+Layers: [80, 100, 100]
+Result: 10.82
+Layers: [90, 10, 10]
+Result: 13.92
+Layers: [90, 10, 20]
+Result: 17.01
+Layers: [90, 10, 30]
+Result: 14.43
+Layers: [90, 10, 40]
+Result: 14.95
+Layers: [90, 10, 50]
+Result: 12.89
+Layers: [90, 10, 60]
+Result: 13.92
+Layers: [90, 10, 70]
+Result: 10.82
+Layers: [90, 10, 80]
+Result: 11.86
+Layers: [90, 10, 90]
+Result: 12.89
+Layers: [90, 10, 100]
+Result: 14.43
+Layers: [90, 20, 10]
+Result: 19.07
+Layers: [90, 20, 20]
+Result: 14.43
+Layers: [90, 20, 30]
+Result: 15.46
+Layers: [90, 20, 40]
+Result: 10.82
+Layers: [90, 20, 50]
+Result: 18.56
+Layers: [90, 20, 60]
+Result: 19.59
+Layers: [90, 20, 70]
+Result: 17.01
+Layers: [90, 20, 80]
+Result: 14.43
+Layers: [90, 20, 90]
+Result: 13.92
+Layers: [90, 20, 100]
+Result: 11.86
+Layers: [90, 30, 10]
+Result: 20.62
+Layers: [90, 30, 20]
+Result: 12.37
+Layers: [90, 30, 30]
+Result: 12.37
+Layers: [90, 30, 40]
+Result: 13.92
+Layers: [90, 30, 50]
+Result: 16.49
+Layers: [90, 30, 60]
+Result: 14.43
+Layers: [90, 30, 70]
+Result: 18.56
+Layers: [90, 30, 80]
+Result: 10.82
+Layers: [90, 30, 90]
+Result: 15.46
+Layers: [90, 30, 100]
+Result: 17.01
+Layers: [90, 40, 10]
+Result: 15.98
+Layers: [90, 40, 20]
+Result: 18.56
+Layers: [90, 40, 30]
+Result: 18.04
+Layers: [90, 40, 40]
+Result: 14.43
+Layers: [90, 40, 50]
+Result: 17.53
+Layers: [90, 40, 60]
+Result: 15.46
+Layers: [90, 40, 70]
+Result: 17.53
+Layers: [90, 40, 80]
+Result: 18.56
+Layers: [90, 40, 90]
+Result: 12.89
+Layers: [90, 40, 100]
+Result: 17.01
+Layers: [90, 50, 10]
+Result: 17.53
+Layers: [90, 50, 20]
+Result: 20.1
+Layers: [90, 50, 30]
+Result: 13.4
+Layers: [90, 50, 40]
+Result: 13.4
+Layers: [90, 50, 50]
+Result: 16.49
+Layers: [90, 50, 60]
+Result: 16.49
+Layers: [90, 50, 70]
+Result: 9.79
+Layers: [90, 50, 80]
+Result: 11.86
+Layers: [90, 50, 90]
+Result: 12.89
+Layers: [90, 50, 100]
+Result: 17.53
+Layers: [90, 60, 10]
+Result: 11.86
+Layers: [90, 60, 20]
+Result: 11.86
+Layers: [90, 60, 30]
+Result: 20.62
+Layers: [90, 60, 40]
+Result: 20.1
+Layers: [90, 60, 50]
+Result: 17.53
+Layers: [90, 60, 60]
+Result: 18.04
+Layers: [90, 60, 70]
+Result: 9.28
+Layers: [90, 60, 80]
+Result: 15.98
+Layers: [90, 60, 90]
+Result: 20.1
+Layers: [90, 60, 100]
+Result: 16.49
+Layers: [90, 70, 10]
+Result: 19.07
+Layers: [90, 70, 20]
+Result: 19.07
+Layers: [90, 70, 30]
+Result: 17.01
+Layers: [90, 70, 40]
+Result: 21.13
+Layers: [90, 70, 50]
+Result: 18.04
+Layers: [90, 70, 60]
+Result: 17.01
+Layers: [90, 70, 70]
+Result: 17.01
+Layers: [90, 70, 80]
+Result: 16.49
+Layers: [90, 70, 90]
+Result: 13.4
+Layers: [90, 70, 100]
+Result: 18.04
+Layers: [90, 80, 10]
+Result: 15.98
+Layers: [90, 80, 20]
+Result: 19.07
+Layers: [90, 80, 30]
+Result: 14.43
+Layers: [90, 80, 40]
+Result: 15.98
+Layers: [90, 80, 50]
+Result: 17.01
+Layers: [90, 80, 60]
+Result: 12.89
+Layers: [90, 80, 70]
+Result: 15.98
+Layers: [90, 80, 80]
+Result: 12.37
+Layers: [90, 80, 90]
+Result: 18.56
+Layers: [90, 80, 100]
+Result: 11.34
+Layers: [90, 90, 10]
+Result: 13.4
+Layers: [90, 90, 20]
+Result: 15.98
+Layers: [90, 90, 30]
+Result: 15.98
+Layers: [90, 90, 40]
+Result: 13.92
+Layers: [90, 90, 50]
+Result: 17.01
+Layers: [90, 90, 60]
+Result: 18.04
+Layers: [90, 90, 70]
+Result: 11.34
+Layers: [90, 90, 80]
+Result: 12.89
+Layers: [90, 90, 90]
+Result: 17.53
+Layers: [90, 90, 100]
+Result: 5.67
+Layers: [90, 100, 10]
+Result: 13.92
+Layers: [90, 100, 20]
+Result: 19.59
+Layers: [90, 100, 30]
+Result: 17.53
+Layers: [90, 100, 40]
+Result: 10.82
+Layers: [90, 100, 50]
+Result: 19.59
+Layers: [90, 100, 60]
+Result: 10.82
+Layers: [90, 100, 70]
+Result: 10.82
+Layers: [90, 100, 80]
+Result: 15.98
+Layers: [90, 100, 90]
+Result: 17.53
+Layers: [90, 100, 100]
+Result: 10.82
+Layers: [100, 10, 10]
+Result: 77.84
+Layers: [100, 10, 20]
+Result: 19.07
+Layers: [100, 10, 30]
+Result: 13.92
+Layers: [100, 10, 40]
+Result: 10.82
+Layers: [100, 10, 50]
+Result: 15.98
+Layers: [100, 10, 60]
+Result: 17.01
+Layers: [100, 10, 70]
+Result: 9.28
+Layers: [100, 10, 80]
+Result: 18.56
+Layers: [100, 10, 90]
+Result: 17.01
+Layers: [100, 10, 100]
+Result: 9.79
+Layers: [100, 20, 10]
+Result: 11.86
+Layers: [100, 20, 20]
+Result: 10.31
+Layers: [100, 20, 30]
+Result: 13.92
+Layers: [100, 20, 40]
+Result: 14.95
+Layers: [100, 20, 50]
+Result: 10.31
+Layers: [100, 20, 60]
+Result: 17.01
+Layers: [100, 20, 70]
+Result: 11.34
+Layers: [100, 20, 80]
+Result: 17.53
+Layers: [100, 20, 90]
+Result: 14.43
+Layers: [100, 20, 100]
+Result: 17.01
+Layers: [100, 30, 10]
+Result: 12.89
+Layers: [100, 30, 20]
+Result: 17.53
+Layers: [100, 30, 30]
+Result: 14.43
+Layers: [100, 30, 40]
+Result: 17.53
+Layers: [100, 30, 50]
+Result: 20.62
+Layers: [100, 30, 60]
+Result: 15.98
+Layers: [100, 30, 70]
+Result: 15.98
+Layers: [100, 30, 80]
+Result: 19.07
+Layers: [100, 30, 90]
+Result: 17.53
+Layers: [100, 30, 100]
+Result: 14.95
+Layers: [100, 40, 10]
+Result: 9.79
+Layers: [100, 40, 20]
+Result: 13.92
+Layers: [100, 40, 30]
+Result: 17.01
+Layers: [100, 40, 40]
+Result: 15.46
+Layers: [100, 40, 50]
+Result: 16.49
+Layers: [100, 40, 60]
+Result: 15.98
+Layers: [100, 40, 70]
+Result: 17.53
+Layers: [100, 40, 80]
+Result: 19.07
+Layers: [100, 40, 90]
+Result: 17.01
+Layers: [100, 40, 100]
+Result: 14.43
+Layers: [100, 50, 10]
+Result: 12.37
+Layers: [100, 50, 20]
+Result: 9.79
+Layers: [100, 50, 30]
+Result: 19.59
+Layers: [100, 50, 40]
+Result: 15.98
+Layers: [100, 50, 50]
+Result: 18.56
+Layers: [100, 50, 60]
+Result: 14.43
+Layers: [100, 50, 70]
+Result: 7.73
+Layers: [100, 50, 80]
+Result: 12.37
+Layers: [100, 50, 90]
+Result: 14.43
+Layers: [100, 50, 100]
+Result: 15.98
+Layers: [100, 60, 10]
+Result: 14.43
+Layers: [100, 60, 20]
+Result: 19.07
+Layers: [100, 60, 30]
+Result: 20.1
+Layers: [100, 60, 40]
+Result: 13.92
+Layers: [100, 60, 50]
+Result: 16.49
+Layers: [100, 60, 60]
+Result: 10.31
+Layers: [100, 60, 70]
+Result: 13.4
+Layers: [100, 60, 80]
+Result: 17.01
+Layers: [100, 60, 90]
+Result: 14.95
+Layers: [100, 60, 100]
+Result: 13.92
+Layers: [100, 70, 10]
+Result: 13.92
+Layers: [100, 70, 20]
+Result: 18.04
+Layers: [100, 70, 30]
+Result: 16.49
+Layers: [100, 70, 40]
+Result: 13.92
+Layers: [100, 70, 50]
+Result: 14.95
+Layers: [100, 70, 60]
+Result: 11.86
+Layers: [100, 70, 70]
+Result: 13.4
+Layers: [100, 70, 80]
+Result: 18.04
+Layers: [100, 70, 90]
+Result: 18.56
+Layers: [100, 70, 100]
+Result: 15.98
+Layers: [100, 80, 10]
+Result: 18.04
+Layers: [100, 80, 20]
+Result: 14.95
+Layers: [100, 80, 30]
+Result: 14.95
+Layers: [100, 80, 40]
+Result: 9.28
+Layers: [100, 80, 50]
+Result: 14.95
+Layers: [100, 80, 60]
+Result: 19.07
+Layers: [100, 80, 70]
+Result: 17.53
+Layers: [100, 80, 80]
+Result: 7.22
+Layers: [100, 80, 90]
+Result: 11.34
+Layers: [100, 80, 100]
+Result: 14.95
+Layers: [100, 90, 10]
+Result: 18.56
+Layers: [100, 90, 20]
+Result: 15.46
+Layers: [100, 90, 30]
+Result: 10.82
+Layers: [100, 90, 40]
+Result: 14.43
+Layers: [100, 90, 50]
+Result: 17.01
+Layers: [100, 90, 60]
+Result: 12.89
+Layers: [100, 90, 70]
+Result: 14.95
+Layers: [100, 90, 80]
+Result: 10.82
+Layers: [100, 90, 90]
+Result: 17.53
+Layers: [100, 90, 100]
+Result: 13.4
+Layers: [100, 100, 10]
+Result: 13.4
+Layers: [100, 100, 20]
+Result: 19.59
+Layers: [100, 100, 30]
+Result: 15.98
+Layers: [100, 100, 40]
+Result: 12.37
+Layers: [100, 100, 50]
+Result: 10.31
+Layers: [100, 100, 60]
+Result: 15.46
+Layers: [100, 100, 70]
+Result: 11.86
+Layers: [100, 100, 80]
+Result: 14.43
+Layers: [100, 100, 90]
+Result: 19.07
+Layers: [100, 100, 100]
+Result: 12.89
